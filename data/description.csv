@@ -1,5 +1,10 @@
 label,sublabel,description,styles,bgcolor
-燃やさないごみ,,,img/moyasanai02.svg,#733b96
-資源,,,img/shigen02.svg,#77ae1f
-燃やすごみ,,,img/moyasu02.svg,#ea3b13
-びん,,,img/bin02.svg,#2dc7aa
+燃えるごみ,,,img/moyasu02.svg,#ea3b13
+破砕ごみ,,,img/moyasanai02.svg,#733b96
+埋立ごみ,,,img/moyasanai02.svg,#733b96
+使用済筒型乾電池・蛍光管,,,img/moyasanai02.svg,#733b96
+飲料用空き缶,,,img/shigen02.svg,#77ae1f
+空きびん,,,img/shigen02.svg,#77ae1f
+ペットボトル,,,img/shigen02.svg,#77ae1f
+古紙,,,img/shigen02.svg,#77ae1f
+粗大ごみ,,,img/bin02.svg,#2dc7aa
